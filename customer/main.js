@@ -1,4 +1,4 @@
-var base_url_api = "http://127.0.0.1:8000/api/"
+var base_url_api = "http://api-restful-django.herokuapp.com/api/"
 
 $("#btn-register").click(function(){
     var solicitation = {
