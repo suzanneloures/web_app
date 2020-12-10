@@ -1,4 +1,4 @@
-var base_url_api = "http://api-restful-django.herokuapp.com/api/"
+var base_url_api = "https://api-restful-django.herokuapp.com/api/"
 
 $("#btn-register").click(function(){
     var solicitation = {
